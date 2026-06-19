@@ -12,7 +12,7 @@ The analysis reveals clear spatial clustering, with high-price listings heavily 
 ![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/6c0890acfe41e9dd77675dde4dd425aec01aa8f5/Outputs/Spatial_Distribution_2023.jpg)
 
 2025
-![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/cb5126df4ec9b4dc37444fa696e25cfafc816da5/Spatial_Distribution_2025.jpg) 
+![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/78bf3085721eeb1bd8a35f45b06d7c9886fcd4d0/Outputs/Spatial_Distribution_2025.jpg) 
 
 **Findings**
 
