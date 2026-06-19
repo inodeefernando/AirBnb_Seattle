@@ -1,4 +1,4 @@
-#Spatial & Statistical Analysis of Seattle Airbnb Prices📌
+##Spatial & Statistical Analysis of Seattle Airbnb Prices📌
 
 **Project Overview**
 This project explores the short-term rental market in Seattle by analyzing Airbnb listings from 2023 and 2025. The primary goal is to examine the distributional heterogeneity and temporal stability of price determinants in the post-pandemic market. By comparing traditional linear spatial models with advanced geo-additive models, this study identifies the most robust predictors of Airbnb pricing.  
@@ -20,9 +20,9 @@ Actual vs. Predicted PricesThe Generalised Geo-Additive Model successfully captu
 
 🔬 MethodologyTo address spatial dependence and non-linear relationships, two distinct regression models were constructed using R:  
 
-Model A (Baseline): Linear Spatial Quantile Regression. This model handles location using fixed categorical boundaries (neighborhood dummy variables).  
+* Model A (Baseline): Linear Spatial Quantile Regression. This model handles location using fixed categorical boundaries (neighborhood dummy variables).  
 
-Model B (Primary): Generalised Geo-Additive Model (GAM). This approach employs a topographical tensor product smooth (latitude and longitude) and P-splines to capture continuous spatial dependence and non-linear covariate effects.  
+* Model B (Primary): Generalised Geo-Additive Model (GAM). This approach employs a topographical tensor product smooth (latitude and longitude) and P-splines to capture continuous spatial dependence and non-linear covariate effects.  
 
 💡 Key FindingsModel Superiority: 
 
