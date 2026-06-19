@@ -14,11 +14,12 @@ The analysis reveals clear spatial clustering, with high-price listings heavily 
 2025
 ![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/cb5126df4ec9b4dc37444fa696e25cfafc816da5/Spatial_Distribution_2025.jpg) 
 
+**Findings**
+
+
 Actual vs. Predicted PricesThe Generalised Geo-Additive Model successfully captures non-linear geographic price variations that simple neighborhood boundaries miss.  
 
-📸 Upload your scatter plots here:Property Types BreakdownEntire homes and rental units make up the vast majority of listings across both cohorts.  
-
-📸 Upload your bar charts here:
+![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/2ff3fcfe4afccaa7714b1777c13b5a174bb2e275/Predicted_Actual.jpg)
 
 🗄️ Data SourcesThe analysis utilizes two distinct datasets to test the temporal stability of price determinants:  
 * 2023 Cohort: 5,710 cleaned listings (Scraped June 25, 2023).
