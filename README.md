@@ -9,8 +9,7 @@ This project explores the short-term rental market in Seattle by analyzing Airbn
 The analysis reveals clear spatial clustering, with high-price listings heavily concentrated in central, desirable neighborhoods (e.g., Downtown, Capitol Hill).  
 
 2023
-
-
+![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/1aca46410e96500084e8361797f376fcb08eac6a/Spatial_Distribution_2023.jpg)
 
 Actual vs. Predicted PricesThe Generalised Geo-Additive Model successfully captures non-linear geographic price variations that simple neighborhood boundaries miss.  
 
