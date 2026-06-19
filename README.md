@@ -11,6 +11,9 @@ The analysis reveals clear spatial clustering, with high-price listings heavily 
 2023
 ![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/1aca46410e96500084e8361797f376fcb08eac6a/Spatial_Distribution_2023.jpg)
 
+2025
+![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/cb5126df4ec9b4dc37444fa696e25cfafc816da5/Spatial_Distribution_2025.jpg) 
+
 Actual vs. Predicted PricesThe Generalised Geo-Additive Model successfully captures non-linear geographic price variations that simple neighborhood boundaries miss.  
 
 📸 Upload your scatter plots here:Property Types BreakdownEntire homes and rental units make up the vast majority of listings across both cohorts.  
