@@ -1,4 +1,4 @@
-##Spatial & Statistical Analysis of Seattle Airbnb Prices📌
+Spatial & Statistical Analysis of Seattle Airbnb Prices📌
 
 **Project Overview**
 This project explores the short-term rental market in Seattle by analyzing Airbnb listings from 2023 and 2025. The primary goal is to examine the distributional heterogeneity and temporal stability of price determinants in the post-pandemic market. By comparing traditional linear spatial models with advanced geo-additive models, this study identifies the most robust predictors of Airbnb pricing.  
@@ -7,6 +7,10 @@ This project explores the short-term rental market in Seattle by analyzing Airbn
    
   **Spatial Distribution of Prices**
 The analysis reveals clear spatial clustering, with high-price listings heavily concentrated in central, desirable neighborhoods (e.g., Downtown, Capitol Hill).  
+
+2023
+
+
 
 Actual vs. Predicted PricesThe Generalised Geo-Additive Model successfully captures non-linear geographic price variations that simple neighborhood boundaries miss.  
 
