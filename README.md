@@ -22,7 +22,7 @@ Model A - Predicting 2025 values with actual 2025 values, using Linear Spatial Q
 
 Moderl B - Predicting 2025 values with actual 2025 values, using Generalised Geo-Additive Model
 
-
+![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/4958ccdccee75600e03aaf2c9170d83d147a1f28/Outputs/Quantile%20Regression_ModelA.JPG) 
 
 Actual vs. Predicted PricesThe Generalised Geo-Additive Model successfully captures non-linear geographic price variations that simple neighborhood boundaries miss.  
 
