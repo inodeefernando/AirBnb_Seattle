@@ -9,7 +9,7 @@ This project explores the short-term rental market in Seattle by analyzing Airbn
 The analysis reveals clear spatial clustering, with high-price listings heavily concentrated in central, desirable neighborhoods (e.g., Downtown, Capitol Hill).  
 
 2023
-![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/1aca46410e96500084e8361797f376fcb08eac6a/Spatial_Distribution_2023.jpg)
+![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/6c0890acfe41e9dd77675dde4dd425aec01aa8f5/Outputs/Spatial_Distribution_2023.jpg)
 
 2025
 ![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/cb5126df4ec9b4dc37444fa696e25cfafc816da5/Spatial_Distribution_2025.jpg) 
