@@ -16,6 +16,13 @@ The analysis reveals clear spatial clustering, with high-price listings heavily 
 
 **Findings**
 
+Model A - Predicting 2025 values with actual 2025 values, using Linear Spatial Quantile Regression 
+
+![image alt](https://github.com/inodeefernando/AirBnb_Seattle/blob/f3530a00a4efbcd1ac1fc8ca0da955c14967cbee/Outputs/Quantile%20Regression.JPG) 
+
+Moderl B - Predicting 2025 values with actual 2025 values, using Generalised Geo-Additive Model
+
+
 
 Actual vs. Predicted PricesThe Generalised Geo-Additive Model successfully captures non-linear geographic price variations that simple neighborhood boundaries miss.  
 
